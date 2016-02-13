@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile C:/wamp/www/repos/projects/playground/basic-cms--sql-and-php-playground-01/admin/.htpasswd
+require valid-user
